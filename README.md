@@ -58,6 +58,10 @@ Custo Zero em Repouso: O Athena e o Glue não geram cobrança se não houver con
 
 Escalabilidade: O custo é baseado apenas no volume de dados escaneados ($5 por TB), tornando-o ideal para análises esporádicas de grandes volumes.
 
+<img width="1536" height="1024" alt="160a6361-8935-470a-a392-cf719e4176cc" src="https://github.com/user-attachments/assets/8cdc1f6f-1bbd-414d-87fc-fba32bf43e05" />
+
+
+
 
 👤 Autor
 Reginaldo Rocha
